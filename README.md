@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \n
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 deploy: https://lista-de-tarefa-kappa.vercel.app/
 
 ## Available Scripts
